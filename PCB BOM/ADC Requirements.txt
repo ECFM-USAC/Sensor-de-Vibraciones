@@ -1,0 +1,8 @@
+24 bits
+3+ channels
+50Hz/60Hz Rejection
+High Input Impedance
+100SPS+
+PGA
+3v3 power supply
+Integrated current sources
